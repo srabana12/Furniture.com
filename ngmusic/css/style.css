@@ -1,0 +1,45 @@
+
+md-toolbar.md-default-theme:not(.md-menu-toolbar), md-toolbar:not(.md-menu-toolbar) {
+    
+        background-color:#da2323;
+    color:#fff;
+}
+.prev-img {
+    
+  width: 200px;
+    float: left;
+    max-height: 200px;
+    margin-right: 20px;
+}
+.new {
+    
+    font-size: 15px;
+}
+.search span {
+    
+   background: #fff;
+    color:#333;
+    line-height: 30px;
+        background: #fff;
+   text-transform: capitalize;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+
+.p1 img{
+  height: 50% !important;
+}
+md-card{
+  overflow: scroll;
+}
+
+.md-toolbar-tools {
+    
+    display: block;
+}
+.md-toolbar-tools > p , .md-toolbar-tools > button {
+    
+    display: inline-block;   
+    min-height: 64px;
+    margin: 0;
+}
