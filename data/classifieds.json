@@ -1,8 +1,8 @@
 [{
   "title" : "$For Sale",
  "name" : "King Bed",
-  "price" : "00",
-  "description" : "King Bed.",
+  "price" : "200",
+  "description" : "King Bed available for sale.Great Condition.",
   "image" : "../images/kingbed.jpg",
   "views": 213,
   "posted" : "2015-10-24",
@@ -17,10 +17,10 @@
   ]
 },
 {
-  "title" : "$For Sale",
+  "title" : "$For Rent",
    "name" : "Dresser",
-  "price" : "8000",
-  "description" : "Dresser Sale.",
+  "price" : "50",
+  "description" : "Dresser for rent",
   "image" : "../images/dresser.jpg",
   "views": 213,
   "posted" : "2015-10-24",
@@ -35,8 +35,8 @@
 {
   "title" : "$For Sale",
     "name" : "Queen Bed",
-  "price" : "16000",
-  "description" : " Queen Bed for Sale",
+  "price" : "160",
+  "description" : "Queen Bed available for sale in great Condition.",
   "image" : "../images/queenbed.jpg",
   "views": 213,
   "posted" : "2015-10-24",
@@ -53,8 +53,8 @@
 {
   "title" : "$For Sale",
    "name" : "Chair",
-  "price" : "60",
-  "description" : " Chair for Sale",
+  "price" : "120",
+  "description" : "Chair for Sale",
   "image" : "../images/chair.jpg",
   "views": 213,
   "posted" : "2015-10-24",
@@ -71,8 +71,59 @@
   "title" : "$For Rent",
   "name" : "Table",
   "price" : "20",
-  "description" : "Table for rent.",
+  "description" : "Table for rent. Contact immidiately.",
   "image" : "../images/table.jpg",
+  "views": 213,
+  "posted" : "2015-10-24",
+  "contact": {
+    "name" : "Jon Doe",
+    "Phone" : "(555)-555-5555",
+    "email":"johndoe@gmail.com"
+  },
+  "categories":[
+    "snack"
+  ]
+},
+ {
+  "title" : "$For Sale",
+  "name" : "Sofa",
+  "price" : "300",
+  "description" : "Sofa in excellent condition for sale.",
+  "image" : "../images/sofa.jpeg",
+  "views": 213,
+  "posted" : "2015-10-24",
+  "contact": {
+    "name" : "Jon Doe",
+    "Phone" : "(555)-555-5555",
+    "email":"johndoe@gmail.com"
+  },
+  "categories":[
+    "snack"
+  ]
+},
+ {
+  "title" : "$For Sale",
+  "name" : "Dining Table",
+  "price" : "240",
+  "description" : "Brand new dining table sits 6. Contact for more information.",
+  "image" : "../images/dining-table.jpeg",
+  "views": 213,
+  "posted" : "2015-10-24",
+  "contact": {
+    "name" : "Jon Doe",
+    "Phone" : "(555)-555-5555",
+    "email":"johndoe@gmail.com"
+  },
+  "categories":[
+    "snack"
+  ]
+},
+ {
+  "title" : "$For Sale",
+  "name" : "Book Shelf",
+  "price" : "100",
+  "description" : "Book Shelf. New arrival.",
+  "image" : "../images/book-shelf.jpg",
   "views": 213,
   "posted" : "2015-10-24",
   "contact": {
@@ -87,7 +138,7 @@
  {
   "title" : "$For Rent",
     "name" : "Table Lamp",
-  "price" : "8000",
+  "price" : "80",
   "description" : " Table Lamp for rent.",
   "image" : "../images/tablelamp.jpg",
   "views": 213,

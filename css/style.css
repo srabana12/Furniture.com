@@ -14,7 +14,7 @@ md-card{
     width:100%;
     font-family: cursive;
     text-align: center;
-    font-size: 35px;
+       font-size: 40px;
 }
 
 md-toolbar + div.filters {
@@ -24,7 +24,14 @@ md-toolbar + div.filters {
 
 div.md-toolbar-tools {
     
-   background-color: rgb(105,105,105); 
+      background-color: #fafafa !important; 
+        color: #343434;
+    text-align: center;
 }
 
 div.classified-info h2 { color:#f17b31;}
+
+md-content {       background:url('../images/black_bg.jpg') !important; }
+
+div.classified-contect h2 {     font-size: 14px; font-weight: normal; }
+div.classified-info {  text-align: center;}
